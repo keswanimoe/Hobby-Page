@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.listHeader {
+  background-color: powderblue;
+  background-position: center;
+  /* background-size: contain; */
+  width: 100px;
+  padding: 3px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+ul { 
+	display: inline-block; 
+  text-align: left; 
+  padding-left: 0;
+  background: powderblue;
+  border-radius: 20px;
+  padding: 30px;
+  }
+  
+.menuBar {
+  /* display: inline-flex;  */
+  width: 100%;
+  display: inline-flex;
+  list-style-type: none;
+}
+
+.aboutBtn {
+  width: 25%;
+  background: powderblue;
+  text-align: center;
+  padding: 10px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+.aboutBtn:hover {
+  background: paleturquoise;
+}
+
+.blogBtn {
+  width: 25%;
+  background: powderblue;
+  text-align: center;
+  padding: 10px;
+}
+
+.blogBtn:hover {
+  background: paleturquoise;
+}
+
+.tutBtn {
+  width: 25%;
+  background: powderblue;
+  text-align: center;
+  padding: 10px;
+}
+
+.tutBtn:hover {
+  background: paleturquoise;
+}
+
+.wishlBtn {
+  width: 25%;
+  background: powderblue;
+  text-align: center;
+  padding: 10px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.wishlBtn:hover {
+  background: paleturquoise;
+}
