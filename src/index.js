@@ -1,5 +1,3 @@
-import "./styles.css";
-
 // get todays date 
 let today = new Date();
 console.log(today);
