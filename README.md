@@ -8,4 +8,4 @@ https://www.w3schools.com/html/html_intro.asp
 https://www.w3schools.com/html/html_css.asp
 https://www.w3schools.com/js/default.asp
 
-View the Hobby Page here: https://keswanimoe.github.io/
+You can view the Hobby Page here by the link in the 'About' section of this repo.
