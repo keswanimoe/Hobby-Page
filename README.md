@@ -1,4 +1,4 @@
-A personal 'Hobby Page' project to refine my HTML, CSS and JavaScript skills. 
+A personal Hobby Page project to refine my HTML, CSS and JavaScript skills (and to show off that I can sew ;))
 
 I worked on this independently, using resources online to supplement my understanding of HTML, CSS and JavaScript.
 
